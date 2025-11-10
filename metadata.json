@@ -1,0 +1,5 @@
+{
+  "name": "vAIde Code",
+  "description": "An AI-powered coding assistant for generating web projects. Provide a prompt, attach an image for reference, and let Gemini generate HTML, CSS, JS, or React codebases. Features include a live preview, dark/light themes, and options to download individual files or the complete project as a ZIP archive.",
+  "requestFramePermissions": []
+}
